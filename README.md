@@ -1,4 +1,4 @@
-# Outlier detection in 115th US Congress data
+# Analysis of 115th US Congress data by using Anomaly detection
 
 This repository contains the script for analysing the 115th US Congress data and find out which member is the most important person in this Congress.
 
